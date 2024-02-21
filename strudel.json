@@ -1,5 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/eddyflux/wax/main/",
+  "atmosphere": [
+    "atmosphere/epiano_atmosphere.wav",
+    "atmosphere/epiano_atmosphere.wav2"
+  ],
   "teentonic": [
     "teentonic/pierre-henry-teen-tonic.wav",
     "teentonic/pierre-henry-teen-tonic4.wav",
@@ -11,8 +15,18 @@
     "perrey/4-jean-jacques-perrey-e-v-a.wav"
   ],
   "longvocal": ["longvocal/jackson5-can-you-feel-it.wav"],
-  "loop4": ["loop4/brian-bennett-ladybird.wav"],
-  "loop2": ["loop2/jean-jacques-perrey-e-v-a.wav"],
+  "loop4": [
+    "loop4/brian-bennett-ladybird.wav",
+    "loop4/onehundredways.wav",
+    "loop4/quincyloop.wav"
+  ],
+  "loop2": [
+    "loop2/jean-jacques-perrey-e-v-a.wav",
+    "loop2/quincyflute.wav",
+    "loop2/secretgarden.wav",
+    "loop2/whatwouldido.wav",
+    "loop2/z-bodyheat.wav"
+  ],
   "midnight": [
     "midnight/dizzy-gillespie-the-last-stroke-of-midnight2.wav",
     "midnight/dizzy-gillespie-the-last-stroke-of-midnight.wav"
@@ -20,7 +34,9 @@
   "quincy_danger": [
     "quincy_danger/quincy-jones-kitty-with-the-bent-frame.wav",
     "quincy_danger/quincy-jones-kitty-with-the-bent-frame2.wav",
-    "quincy_danger/quincy-jones-up-against-the-wall.wav"
+    "quincy_danger/quincy-jones-up-against-the-wall.wav",
+    "quincy_danger/z_danger_ironside.wav",
+    "quincy_danger/z_quincy_danger2.wav"
   ],
   "oneshots": [
     "oneshots/quincy-jones-kitty-with-the-bent-frame.wav",
@@ -28,7 +44,8 @@
     "oneshots/jean-jacques-perrey-gossipo-perpetuo2.wav",
     "oneshots/jean-jacques-perrey-gossipo-perpetuo1.wav",
     "oneshots/bobbi-humphrey-baby-s-gone.wav",
-    "oneshots/quincy-jones-up-against-the-wall.wav"
+    "oneshots/quincy-jones-up-against-the-wall.wav",
+    "oneshots/z_quincy_bassclarinet.wav"
   ],
   "cartoon": ["cartoon/krtekfrogs.wav"],
   "hehe": ["hehe/hehe-mikey-dread-operator-s-choice.wav"],
@@ -50,6 +67,16 @@
     "bassloop2/jane-birkin-serge-gainsbourg-69-anne-e-e-rotique.wav",
     "bassloop2/bass_James Brown - Stone To The Bone.wav",
     "bassloop2/bass2_120_joe farrell - bass folk song.wav",
-    "bassloop2/bass2_88_miles-davis-bitches-brew.wav"
-  ]
+    "bassloop2/bass2_88_miles-davis-bitches-brew.wav",
+    "bassloop2/z_alongwaytogo.wav",
+    "bassloop2/z_gutamatari.wav"
+  ],
+  "bassloop4": ["bassloop4/alongcamebetty.wav"],
+  "didnti": [
+    "didnti/git_didnti.wav",
+    "didnti/git_didnti2.wav",
+    "didnti/git_didnti3.wav"
+  ],
+  "disco": ["disco/givemethenight.wav", "disco/streetwave.wav"],
+  "wax_sd": ["wax_sd/sd_bodyheat.wav"]
 }
