@@ -2,7 +2,7 @@
   "_base": "https://raw.githubusercontent.com/eddyflux/wax/main/",
   "atmosphere": [
     "atmosphere/epiano_atmosphere.wav",
-    "atmosphere/epiano_atmosphere.wav2"
+    "atmosphere/epiano_atmosphere2.wav"
   ],
   "teentonic": [
     "teentonic/pierre-henry-teen-tonic.wav",
