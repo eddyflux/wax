@@ -1,0 +1,55 @@
+{
+  "_base": "https://raw.githubusercontent.com/eddyflux/wax/main/",
+  "teentonic": [
+    "teentonic/pierre-henry-teen-tonic.wav",
+    "teentonic/pierre-henry-teen-tonic4.wav",
+    "teentonic/pierre-henry-teen-tonic2.wav",
+    "teentonic/pierre-henry-teen-tonic3.wav"
+  ],
+  "perrey": [
+    "perrey/4-jean-jacques-perrey-e-v-a-10-2023-07-06-115029.wav",
+    "perrey/4-jean-jacques-perrey-e-v-a.wav"
+  ],
+  "longvocal": ["longvocal/jackson5-can-you-feel-it.wav"],
+  "loop4": ["loop4/brian-bennett-ladybird.wav"],
+  "loop2": ["loop2/jean-jacques-perrey-e-v-a.wav"],
+  "midnight": [
+    "midnight/dizzy-gillespie-the-last-stroke-of-midnight2.wav",
+    "midnight/dizzy-gillespie-the-last-stroke-of-midnight.wav"
+  ],
+  "quincy_danger": [
+    "quincy_danger/quincy-jones-kitty-with-the-bent-frame.wav",
+    "quincy_danger/quincy-jones-kitty-with-the-bent-frame2.wav",
+    "quincy_danger/quincy-jones-up-against-the-wall.wav"
+  ],
+  "oneshots": [
+    "oneshots/quincy-jones-kitty-with-the-bent-frame.wav",
+    "oneshots/quincy-jones-kitty-with-the-bent-frame2.wav",
+    "oneshots/jean-jacques-perrey-gossipo-perpetuo2.wav",
+    "oneshots/jean-jacques-perrey-gossipo-perpetuo1.wav",
+    "oneshots/bobbi-humphrey-baby-s-gone.wav",
+    "oneshots/quincy-jones-up-against-the-wall.wav"
+  ],
+  "cartoon": ["cartoon/krtekfrogs.wav"],
+  "hehe": ["hehe/hehe-mikey-dread-operator-s-choice.wav"],
+  "timeslie": [
+    "timeslie/joe-farrell-times-lie.wav",
+    "timeslie/joe-farrell-times-lie2.wav"
+  ],
+  "hornhit": ["hornhit/hit1-james-brown-stone-to-the-bone.wav"],
+  "queens": [
+    "queens/soft-machine-kings-and-queens.wav",
+    "queens/soft-machine-kings-and-queens2.wav"
+  ],
+  "ooh": [
+    "ooh/ooh1-james-brown-stone-to-the-bone.wav",
+    "ooh/ooh2-james-brown-stone-to-the-bone.wav"
+  ],
+  "bassloop2": [
+    "bassloop2/quincy-jones-kitty-with-the-bent-frame3.wav",
+    "bassloop2/jane-birkin-serge-gainsbourg-69-anne-e-e-rotique.wav",
+    "bassloop2/bass_James Brown - Stone To The Bone.wav",
+    "bassloop2/bass2_120_joe farrell - bass folk song.wav",
+    "bassloop2/bass2_88_miles-davis-bitches-brew.wav"
+  ]
+}
