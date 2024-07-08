@@ -78,5 +78,6 @@
     "didnti/git_didnti3.wav"
   ],
   "disco": ["disco/givemethenight.wav", "disco/streetwave.wav"],
-  "wax_sd": ["wax_sd/sd_bodyheat.wav"]
+  "wax_sd": ["wax_sd/sd_bodyheat.wav"],
+  "golosa": ["golosa/golosa.mp3"]
 }
